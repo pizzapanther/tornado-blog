@@ -5,3 +5,7 @@
 - item 3
 
 [my cat](http://google.com) is awesome
+
+<script>
+  bad_stuff()
+</script>
