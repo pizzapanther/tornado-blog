@@ -11,6 +11,7 @@ tornado = "*"
 "jinja2" = "*"
 queries = "*"
 "markdown2" = "*"
+requests = "*"
 
 
 [dev-packages]
