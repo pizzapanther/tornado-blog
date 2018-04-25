@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "047b730576ff8042bbbab4277f899fe915af58d3a9f8585409089f3e4c0441f2"
+            "sha256": "08abd3fe31ef863d80433cf0c6340869912b6a9be472a646ad4fd55e96ac290e"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -29,10 +29,10 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:14131608ad2fd56836d33a71ee60fa1c82bc9d2c8d98b7bdbc631fe1b3cd1296",
-                "sha256:edbc3f203427eef571f79a7692bb160a2b0f7ccaa31953e99bd17e307cf63f7d"
+                "sha256:9fa520c1bacfb634fa7af20a76bcbd3d5fb390481724c597da32c719a7dca4b0",
+                "sha256:13e698f54293db9f89122b0581843a782ad0934a4fe0172d2a980ba77fc61bb7"
             ],
-            "version": "==2018.1.18"
+            "version": "==2018.4.16"
         },
         "chardet": {
             "hashes": [
@@ -67,6 +67,18 @@
             ],
             "version": "==1.0"
         },
+        "maxminddb": {
+            "hashes": [
+                "sha256:972399b6d08b4cbb7889f2d2489266d18811c5ef6109cc52eb28de4102bbc4be"
+            ],
+            "version": "==1.3.0"
+        },
+        "maxminddb-geolite2": {
+            "hashes": [
+                "sha256:b9bd9f07aa63ebfac896380b26bf122a4fddfe003ab0b677b8064f229de88051"
+            ],
+            "version": "==2018.308"
+        },
         "psycopg2": {
             "hashes": [
                 "sha256:aeaba399254ca79c299d9fe6aa811d3c3eac61458dee10270de7f4e71c624998",
@@ -99,6 +111,13 @@
             ],
             "version": "==2.7.4"
         },
+        "python-geoip": {
+            "hashes": [
+                "sha256:fb0fa723d0cef2b52807afb7da154877125e0d40f94ec69707511549a8d431c9",
+                "sha256:b7b11dab42bffba56943b3199e3441f41cea145244d215844ecb6de3d5fb2df5"
+            ],
+            "version": "==1.2"
+        },
         "queries": {
             "hashes": [
                 "sha256:1444fa98a30949ae749a4016e82ca98d41af439fa53aeecf6f73fca053b6e98a",
@@ -115,13 +134,13 @@
         },
         "tornado": {
             "hashes": [
-                "sha256:69194436190b777abf0b631a692b0b29ba4157d18eeee07327b486e033b944dc",
-                "sha256:186ba4f280429a24120f329c7c08ea91818ff6bf47ed2ccb66f8f460698fc4ed",
-                "sha256:b5bf7407f88327b80e666dabf91a1e7beb11236855a5c65ba5cf0e9e25ae296b",
-                "sha256:4d192236a9ffee54cb0032f22a8a0cfa64258872f1d83d71f3356681f69a37be",
-                "sha256:3e9a2333362d3dad7876d902595b64aea1a2f91d0df13191ea1f8bca5a447771"
+                "sha256:88ce0282cce70df9045e515f578c78f1ebc35dcabe1d70f800c3583ebda7f5f5",
+                "sha256:ba9fbb249ac5390bff8a1d6aa4b844fd400701069bda7d2e380dfe2217895101",
+                "sha256:408d129e9d13d3c55aa73f8084aa97d5f90ed84132e38d6932e63a67d5bec563",
+                "sha256:c050089173c2e9272244bccfb6a8615fb9e53b79420a5551acfa76094ecc3111",
+                "sha256:1b83d5c10550f2653380b4c77331d6f8850f287c4f67d7ce1e1c639d9222fbc7"
             ],
-            "version": "==5.0.1"
+            "version": "==5.0.2"
         },
         "urllib3": {
             "hashes": [

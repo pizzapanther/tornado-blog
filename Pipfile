@@ -12,6 +12,8 @@ tornado = "*"
 queries = "*"
 "markdown2" = "*"
 requests = "*"
+python-geoip = "*"
+"maxminddb-geolite2" = "*"
 
 
 [dev-packages]
